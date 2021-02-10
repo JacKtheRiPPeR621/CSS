@@ -1,0 +1,25 @@
+*{
+    font-style: italic;
+}
+div{
+    color: crimson;
+}
+p{
+    color: darkmagenta;
+}
+.big{
+    font-size: 20pt;
+}
+.bold{
+    font-weight: bold;
+}
+#one{
+    background-color: darkolivegreen;
+}
+#two{
+    background-color: darkturquoise;
+    padding-left: 40px;
+}
+input[type ="text"]{
+    height: 25pt;
+}
