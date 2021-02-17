@@ -2,3 +2,15 @@ p{
     padding-left: 40px;
     background-color:#0000ff;
 }
+#s1{
+    font-size: 40px;
+}
+#s2{
+    font-family: monospace;
+}
+.one{
+    font-style: italic;
+}
+.two{
+    color: cadetblue;
+}
