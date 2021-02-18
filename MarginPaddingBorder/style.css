@@ -1,0 +1,14 @@
+.box{
+    margin: 30px;
+    padding: 10px;
+    border: solid black 3px;
+}
+#div1{
+    background-color: hotpink;
+}
+#div2{
+    background-color: lawngreen;
+}
+#div3{
+    background-color: mediumturquoise;
+}
